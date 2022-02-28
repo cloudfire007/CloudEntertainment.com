@@ -1,0 +1,223 @@
+body {
+  background-image: url(../images/bk.png);
+  font-family: poppins;
+  background-size: 1368px;
+}
+
+.un {
+  color: white;
+  font-size: 3.4em;
+  width: 11em;
+  font-weight: 500;
+}
+
+.tv {
+  color: white;
+  font-size: 3.4em;
+  width: 11em;
+  margin-top: -1.2em;
+  font-weight: 500;
+}
+
+.text {
+  margin-left: 23em;
+  margin-top: 12em;
+}
+
+.Asset {
+  margin-bottom: -7em;
+  margin-left: -2em;
+  height: 10em;
+}
+
+h2 {
+  color: white;
+  font-weight: 450;
+  margin-left: 3em;
+  margin-top: -2.5em;
+}
+
+h3 {
+  color: white;
+  font-weight: 470;
+  margin-left: -3em;
+}
+
+input {
+  height: 2.5em;
+  width: 28em;
+  border: none;
+  padding: 0.5em;
+  font-size: 1.1em;
+  border-top-left-radius: 0.8em;
+  border-bottom-left-radius: 0.8em;
+  font-family: poppins;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  background: red;
+  padding: 1.2em 1.8em;
+  border-top-right-radius: 0.8em;
+  border-bottom-right-radius: 0.8em;
+}
+
+.Enjoy {
+  background: black;
+  color: white;
+  margin-top: 11em;
+  height: 20em;
+  padding: 3em;
+  border: gray;
+}
+
+.phone {
+  background: black;
+  color: white;
+  margin-top: 0.3em;
+  height: 20em;
+  padding: 3em;
+  border: gray;
+}
+
+.phone9 {
+  background: black;
+  color: white;
+  margin-top: 0.3em;
+  height: 40em;
+  padding: 3em;
+  border: gray;
+}
+
+.tt {
+  background: black;
+  color: white;
+  margin-top: 0.3em;
+  height: 9em;
+  padding: 3em;
+  border: gray;
+}
+
+.Enjoy-text {
+  font-size: 3.4em;
+  margin-left: 1em;
+  font-weight: 450;
+}
+
+.phone-text {
+  font-size: 2.8em;
+  margin-left: 16em;
+  font-weight: 450;
+  width: 12em;
+}
+
+.phone-text1 {
+  font-size: 2.8em;
+  margin-left: 1.6em;
+  font-weight: 450;
+  width: 12em;
+  margin-top: 0em;
+}
+
+.phone-text {
+  font-size: 2.8em;
+  margin-left: 16em;
+  font-weight: 450;
+  width: 12em;
+}
+
+.txt {
+  font-size: 1.5em;
+  margin-left: 2.4em;
+  width: 24em;
+  margin-top: -1.9em;
+}
+
+img {
+  margin-left: 40em;
+  margin-top: -23em;
+}
+
+.image {
+  height: 23em;
+  margin-left: 1em;
+  margin-top: -20em;
+}
+
+.image1 {
+  height: 21em;
+  margin-left: 1em;
+  margin-top: -14em;
+}
+
+.Save {
+  margin-left: 32em;
+  font-size: 1.4em;
+  margin-top: -1.9em;
+}
+
+.Save1 {
+  margin-left: 3.3em;
+  font-size: 1.4em;
+  margin-top: -1.9em;
+  width: 23em;
+}
+
+.tx {
+  margin-top: 3em;
+}
+
+.cloud {
+  margin-left: 15em;
+}
+
+.cloud-mv1 {
+  background: #181818;
+  color: white;
+  padding: 1.2em 18.4em;
+}
+
+.cloud-mv2 {
+  background: #181818;
+  color: white;
+  padding: 1.2em 20.7em;
+}
+
+.cloud-mv3 {
+  background: #181818;
+  color: white;
+  padding: 1.2em 14.9em;
+}
+
+.cloud-mv4 {
+  background: #181818;
+  color: white;
+  padding: 1.2em 15em;
+}
+
+.cloud-mv5 {
+  background: #181818;
+  color: white;
+  padding: 1.2em 21.5em;
+}
+
+.cloud-mv6 {
+  background: #181818;
+  color: white;
+  padding: 1.2em 16.4em;
+}
+
+.Ready {
+  margin-top: 5em;
+}
+
+.intext {
+  margin-left: -3.6em;
+}
+
+.watch {
+  margin-left: 0.1em;
+}
+/*# sourceMappingURL=main.css.map */
